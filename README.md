@@ -1,4 +1,4 @@
 # pihole-adslist
-Pi-Hole Ads Blocklist
+Pi-Hole Malicious & Ads Blocklist
 
 Source: https://firebog.net/
